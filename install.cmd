@@ -4,9 +4,9 @@ COLOR 0F
 SETLOCAL ENABLEDELAYEDEXPANSION
 CLS
 
-:: 1.12.2 Version
-SET MCP_LK=https://github.com/Hexeption/BetaMCP/raw/master/1.12/BetaMCP-1.12.2.zip
-SET MC_VEV=1.12.2
+:: 1.12.1 Version
+SET MCP_LK=https://github.com/Hexeption/BetaMCP/raw/master/1.12/BetaMCP-1.12.1.zip
+SET MC_VEV=1.12.1
 
 :: Downloading Beta MCP
 :: TODO Check if there is already and tmp folder
