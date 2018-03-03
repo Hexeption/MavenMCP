@@ -6,7 +6,7 @@
 
     <groupId>org.strezz</groupId>
     <artifactId>MavenMCP</artifactId>
-    <version>1.0-1.12.1</version>
+    <version>1.0-1.12</version>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -25,7 +25,7 @@
         <dependency>
             <groupId>net.minecraft</groupId>
             <artifactId>minecraft</artifactId>
-            <version>1.12.1</version>
+            <version>1.12</version>
         </dependency>
 
         <dependency>
