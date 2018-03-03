@@ -1,11 +1,11 @@
-#Maven MCP 1.0-1.12.2
+# Maven MCP 1.0-1.8.8
 
-##About Maven MCP
+## About Maven MCP
 Maven MCP is a framework for using MCP with maven.
 
-##Info
-VMOptions: `-Djava.library.path=version/1.12.2/1.12.2-natives/` 
+## Info
+VMOptions: `-Djava.library.path=version/1.8.8/1.8.8-natives/` 
 
-##Contribution
-####Strezz - [Github](https://github.com/strezzed) - [Twitter](https://twitter.com/STREZZS)
-####More
+## Contribution
+#### Strezz - [Github](https://github.com/strezzed) - [Twitter](https://twitter.com/STREZZS)
+#### More
