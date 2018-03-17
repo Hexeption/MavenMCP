@@ -196,8 +196,8 @@
             <version>1.5.21</version>
         </dependency>
 
-        <dependency>
-            <groupId>tv.twitch.twitch</groupId>
+         <dependency>
+            <groupId>tv.twitch</groupId>
             <artifactId>twitch</artifactId>
             <version>6.5</version>
         </dependency>
