@@ -10,7 +10,7 @@ Currently Supports:
 
 | MC Version                                                 | Supported Windows  | Supported UNIX     |
 | ---------------------------------------------------------- | ------------------ | ------------------ |
-| [1.12.2](https://github.com/Strezzed/MavenMCP/tree/1.12.2) | :heavy_check_mark: |	:x: (WIP)          |
+| [1.12.2](https://github.com/Strezzed/MavenMCP/tree/1.12.2) | :heavy_check_mark: |	:heavy_check_mark: |
 | [1.12.1](https://github.com/Strezzed/MavenMCP/tree/1.12.1) | :heavy_check_mark: | :heavy_check_mark: |
 | [1.12](https://github.com/Strezzed/MavenMCP/tree/1.12)     | :heavy_check_mark: | :heavy_check_mark: |
 | 1.11.2                                                     | :x:                |	:x:                |
@@ -25,7 +25,7 @@ Currently Supports:
 | 1.9.1                                                      | :x:                |	:x:                |
 | 1.9                                                        | :x:                |	:x:                |
 | 1.8.9                                                      | :x:                |	:x:                |
-| [1.8.8](https://github.com/Strezzed/MavenMCP/tree/1.8.8)   | :heavy_check_mark: |	:x: (WIP)          |
+| [1.8.8](https://github.com/Strezzed/MavenMCP/tree/1.8.8)   | :heavy_check_mark: |	:heavy_check_mark: |
 | 1.8.7                                                      | :x:                |	:x:                |
 | 1.8.6                                                      | :x:                |	:x:                |
 | 1.8.5                                                      | :x:                |	:x:                |
