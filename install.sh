@@ -5,7 +5,7 @@ echo "Installing MavenMCP"
 
 # 1.12.1 Version
 MCP_LK="https://baddeveloper.xyz/mcp/mcp941-fix.zip"
-MC_VEV="1.12"
+MC_VEV="1.12.1"
 
 # Downloading Beta MCP
 # TODO Check if there is already and tmp folder
