@@ -1,4 +1,5 @@
 # Maven MCP
+
 Maven MCP is a framework for using MCP with maven.
 
 ## Supported Versions 
@@ -30,7 +31,3 @@ Maven MCP is a framework for using MCP with maven.
 | 1.8.1                                                      | :x:                |	:x:                |
 | 1.8                                                        | :x:                |	:x:                |
 | 1.7.10                                                     | :x:                |	:x:                |
-
-## Contribution
-
-#### Strezzed - [GitHub](https://github.com/strezzed) - [Twitter](https://twitter.com/STREZZS)
