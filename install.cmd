@@ -7,7 +7,7 @@ CLS
 :: 1.8.8 Version
 SET MCP_LK=http://www.modcoderpack.com/files/mcp918.zip
 SET MC_VEV=1.8.8
-SET OPTIFINE_LK=http://hexeption.co.uk/optifine.zip
+SET OPTIFINE_LK=https://raw.githubusercontent.com/Hexeption/Optifine-SRC/master/Optifine%20SRC%20Version%20%5B1.8.8%20HD%20U%20H8%5D.zip
 
 :: Downloading Beta MCP
 :: TODO Check if there is already and tmp folder
