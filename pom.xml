@@ -17,7 +17,7 @@
         <repository>
             <name>strezz-central</name>
             <id>strezz</id>
-            <url>https://github.com/Strezzed/strezz-central/raw/repository</url>
+            <url>https://nexus.hexeption.dev/repository/strezz-central/</url>
         </repository>
     </repositories>
 
