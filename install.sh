@@ -39,7 +39,7 @@ mkdir workspace/
 cp -r tmp/jars/ workspace/
 
 # Clean Up
-ECHO "Clean Up..."
+echo "Clean Up..."
 rm -rf tmp
 
 echo "Done."
